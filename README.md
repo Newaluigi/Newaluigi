@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandre-levillain/](https://www.linkedin.com/in/alexandre-levillain/)
 
-- ⚡ Fun fact **I created Facebook (!true)**
+- 🐔 Fun fact **I created Facebook (!true)**
 
 
 ## 🔗 Connect with me  
@@ -89,7 +89,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Newaluigi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Newaluigi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Newaluigi&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newaluigi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -99,8 +99,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 <br/>  
 
