@@ -31,8 +31,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Newaluigi&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newaluigi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Newaluigi&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
@@ -42,3 +46,10 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1111483566&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=9842bd&bar_color_cover=true" /></div>  
 
 <br/>  
+
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Newaluigi&icon=0&color=6)](https://visitcount.itsvg.in)
+
