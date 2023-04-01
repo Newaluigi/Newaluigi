@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AngularJS, C#, Unity**
 
-- 👨‍💻 All of my projects are available at [to edit](to edit)
+- 👨‍💻 All of my projects are available at [to edit](portfolio in progress)
 
 - 📫 How to reach me **alexandre.levillain@homail.com**
 
@@ -29,6 +29,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=newaluigi&show_icons=true&locale=en&layout=compact" alt="newaluigi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newaluigi&show_icons=true&locale=en" alt="newaluigi" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Newaluigi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Newaluigi&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newaluigi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 <br/>  
 
