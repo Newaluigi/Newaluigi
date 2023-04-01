@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newaluigi" alt="newaluigi" /></a> </p>
 
-- 🔭 I’m currently working on [to edit](to edit)
+- 🔭 I’m currently working on cool projects in React for Wild code school
 
 - 🌱 I’m currently learning **AngularJS, C#, Unity**
 
