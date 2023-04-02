@@ -1,6 +1,7 @@
 
 ![Header](./github-header.png)
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <h3 align="center">I'm a passionate developer from France 🇫🇷 , living in Spain 🇪🇸 </h3>
 <br/>  
 
