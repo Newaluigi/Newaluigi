@@ -1,7 +1,8 @@
 
 ![Header](./github-header.png)
 
-<h3 align="center">I'm passionate developer from France 🇫🇷 , living in Spain 🇪🇸 </h3>
+<h3 align="center">I'm a passionate developer from France 🇫🇷 , living in Spain 🇪🇸 </h3>
+<br/>  
 
 - 🔭 I’m currently working on cool projects on **React** for Wild code school
 
@@ -9,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [to edit](portfolio in progress)
 
-- 📫 How to reach me **alexandre.levillain@homail.com**
+- 📫 How to reach me : **alexandre.levillain@homail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexandre-levillain/](https://www.linkedin.com/in/alexandre-levillain/)
+- 📄 Know about my experiences : [https://www.linkedin.com/in/alexandre-levillain/](https://www.linkedin.com/in/alexandre-levillain/)
 
-- 🐔 Fun fact **I created Facebook (!true)**
+- 🐔 Fun fact : **I created Facebook (!true)**
 
 
 ## 🔗 Connect with me  
