@@ -5,7 +5,7 @@
 <h3 align="center">I'm a passionate developer from France 🇫🇷 , living in Spain 🇪🇸 </h3>
 <br/>  
 
-- 🔭 I’m currently working on cool projects on **React** for Wild code school
+- 🔭 I’m currently working on cool projects on **React** & **Angular** for Wild code school & friends
 
 - 🌱 I’m currently learning **Angular, Typescript, Java**
 
