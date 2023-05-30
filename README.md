@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular, Typescript, Java**
 
-- 👨‍💻 All of my projects are available at [to edit](portfolio in progress)
+- 👨‍💻 All of my projects are available at newaluigi.github.io/PortfolioV1/
 
 - 📫 How to reach me : **alexandre.levillain@homail.com**
 
